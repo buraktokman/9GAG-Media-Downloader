@@ -1,0 +1,2 @@
+pyperclip==1.5.27
+beautifulsoup4==4.6.0
