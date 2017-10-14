@@ -16,7 +16,7 @@ NOTE: Post url has to be provided as parameter or copied to clipboard.
 
 1. Navigate to the directory
 
-    `cd 9GAG-Post-Downloader`
+    `cd 9GAG-Media-Downloader`
 
 2. Install the dependencies
 
