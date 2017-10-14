@@ -1,6 +1,6 @@
 # 9GAG Media Downloader [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)]()
 
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/sirdavalos/9GAG-Media-Downloader)
 [![Repo](https://img.shields.io/badge/source-GitHub-303030.svg?maxAge=3600&style=flat-square)](https://github.com/sirdavalos/9GAG-Media-Downloader)
 [![Requires.io](https://img.shields.io/requires/github/celery/celery.svg)](https://github.com/sirdavalos/9GAG-Media-Downloader)
 [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://choosealicense.com/licenses/mit/)
