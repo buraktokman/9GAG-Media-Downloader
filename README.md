@@ -3,10 +3,10 @@
 Python script which downloads the 9GAG media from the provided 9gag.com post url in highest quality.
 Compatible with GIFs, Image and Video files.
 
-### HOW TO USE:
+### USAGE:
 `python 9gag.py [post URL]`
 
-NOTE: Post url has to be provided as parameter or copied to clipboard.
+**NOTE:** Post url has to be provided as parameter or copied to clipboard.
 
 ### Instructions
 
