@@ -1,8 +1,7 @@
 # 9GAG Media Downloader [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)]()
 
-[![DUB](https://img.shields.io/dub/l/vibe-d.svg)]()[![Donate with Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)](https://blockchain.info/address/[![Donate with Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)](https://blockchain.info/address/19xm5wFxyrue9Ncdhw3qLysmYAh7NSxbAc))
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()[![DUB](https://img.shields.io/dub/l/vibe-d.svg)]()[![Donate with Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)](https://blockchain.info/address/[![Donate with Bitcoin](https://img.shields.io/badge/Donate-BTC-orange.svg)](https://blockchain.info/address/19xm5wFxyrue9Ncdhw3qLysmYAh7NSxbAc)
 
-|build| |repo| |versions| |format| |coverage| |doc| |requirements| |grade| |license|
 
 Python script which downloads the 9GAG media from the provided 9gag.com post url in highest quality.
 Compatible with GIFs, Image and Video files.
