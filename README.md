@@ -1,4 +1,4 @@
-# 9GAG Media Downloader [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)]()
+# 9GAG Media Downloader [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://github.com/sirdavalos/9GAG-Media-Downloader/)
 
 [![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/sirdavalos/9GAG-Media-Downloader)
 [![Repo](https://img.shields.io/badge/source-GitHub-303030.svg?maxAge=3600&style=flat-square)](https://github.com/sirdavalos/9GAG-Media-Downloader)
