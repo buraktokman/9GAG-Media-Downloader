@@ -47,6 +47,9 @@ def gag(url):
 		image = soup.find('meta', property = 'og:image')
 		url = image['content']
 
+	# Clear 📌 from filename
+	if "📌" in title:
+		title.replace("📌", "")
 	filename = title + get_ext(url)
 	print(url)
 	
