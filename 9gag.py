@@ -17,7 +17,6 @@ from urllib.parse import urlparse
 desktop = expanduser("~") + '/Desktop'
 new = pyperclip.paste()
 parsed_url = urlparse(new)
-
 pbar = None
 
 def show_progress(block_num, block_size, total_size):
